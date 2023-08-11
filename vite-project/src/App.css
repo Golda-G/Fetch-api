@@ -1,0 +1,35 @@
+/* body{ */
+  /* overflow-x: hidden; */
+/* } */
+h1 {
+  text-align: center;
+  border-bottom: 55px;
+  /* border-bottom-color: black; */
+}
+.item-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2em;
+}
+.card {
+  background-color: azure;
+  text-align: center;
+  width: 300px;
+  border-radius: 5px;
+  padding: 1em; 
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  
+}
+img {
+  height: 100px;
+  width: auto;
+}
+
+p{
+  pointer-events:none;
+ 
+}
+h3{
+  pointer-events: none;
+}
