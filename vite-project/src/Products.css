@@ -1,8 +1,7 @@
 
 h1 {
   text-align: center;
-  border-bottom: 55px;
-  /* border-bottom-color: black; */
+  border-bottom: 25px black dotted;
 }
 .item-container {
   display: flex;
